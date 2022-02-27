@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of the countie of Leicester. Delivered in answer to to [sic] His Majesties speech, made to the whole county. Wherin they expresse their zeal and loyalty to His Majesty and also their unchangeable constancie to maintain the proceedings of Parliament against all opposition. Also the protestation of the county of Lincoln, delivered to the Lords, by the Lord Willoughby of Parham, and by a message communicated to the House of Commons, and by them approved of. Also the Parliaments charge and command to all iustices. Ordered, that this be forthwith printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82062</idno>
+            <idno type="STC">Wing D554</idno>
+            <idno type="STC">Thomason E108_19</idno>
+            <idno type="STC">ESTC R15219</idno>
+            <idno type="EEBO-CITATION">99859823</idno>
+            <idno type="PROQUEST">99859823</idno>
+            <idno type="VID">111922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of the countie of Leicester. Delivered in answer to to [sic] His Majesties speech, made to the whole county. Wherin they expresse their zeal and loyalty to His Majesty and also their unchangeable constancie to maintain the proceedings of Parliament against all opposition. Also the protestation of the county of Lincoln, delivered to the Lords, by the Lord Willoughby of Parham, and by a message communicated to the House of Commons, and by them approved of. Also the Parliaments charge and command to all iustices. Ordered, that this be forthwith printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 29. Printed for J. Wels,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commissions of array --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Leicestershire (England) --  History --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111922:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND RESOLUTION OF The Countie of <hi>Leiceſter.</hi>
+            </p>
+            <p>Delivered in Anſwer to to His Majeſties Speech, made to the whole County. Wherin they expreſſe their Zeal and Loyalty to His Majeſty and alſo their unchange<g ref="char:EOLhyphen"/>able conſtancie to maintain the Proceedings of Parliament againſt all Oppoſition.</p>
+            <p>Alſo the <hi>Proteſtation</hi> of the County of <hi>Lincoln,</hi> de<g ref="char:EOLhyphen"/>livered to the Lords, by the Lord <hi>Willoughby</hi> of <hi>Parham,</hi> and by a Meſſage communicated to the Houſe of Commons, and by them approved of.</p>
+            <p>Alſo the Parliaments Charge and Command to all Iuſtices.</p>
+            <p>Ordered, that this be forthwith Printed and Publiſhed.</p>
+            <p>
+               <hi>Hen. Elſing. Cler. Parl. D. Com.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 29. Printed for <hi>J. Wels.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:111922:2"/>
+            <pb facs="tcp:111922:2"/>
+            <head>THE DECLARATJON AND Reſolution of the County of Leiceſter, to his Maieſty.</head>
+            <p>VVHen His Majeſty came into <hi>Leiceſter-ſhire.</hi> He was pleaſed to deliver himſelf, his Intentions, and Deſires, to the underſtanding of that County; the Particular Grounds of whoſe Speech, were, <hi>That as he was their lawfull Sove<g ref="char:EOLhyphen"/>reign ſo he might find their Loyall and faith<g ref="char:EOLhyphen"/>full acknowledgement of that Royalty, which he made no queſtion they were fully reſolved was due unto him.</hi>
+            </p>
+            <pb facs="tcp:111922:3"/>
+            <p>And that they would deliver up un<g ref="char:EOLhyphen"/>to him the town of <hi>Leiceſter,</hi> and the Arms, which he did conceive did be<g ref="char:EOLhyphen"/>long unto him, and which was for a long while againſt their Loyalty detai<g ref="char:EOLhyphen"/>ned from him, and was diſpoſed of con<g ref="char:EOLhyphen"/>trary to his intentions, and their Obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>And alſo that for the ſafeguard of his perſon, the Trained Bands might attend him, while he ſhould remain in thoſe parts.</p>
+            <p>His Majeſty having thus delivered himſelf, after ſome deliberation, anſwer was returned again to his Majeſty in the name of the whole County.</p>
+            <p>That they hoped his Majeſty did not ſo miſconſtrue their true and Loyall hearts, as that they ſhould make any queſtion of his undoubted Supremacie; whom they alwayes held, and will for ever maintain to be their lawfull and Royall Sovereign.</p>
+            <p>And that they would againſt all op<g ref="char:EOLhyphen"/>poſers whatſoever, maintain His Maje<g ref="char:EOLhyphen"/>ſties
+<pb facs="tcp:111922:3"/>Honours and Dignities, ſo farre forth as his Majeſty ſhall love the Ho<g ref="char:EOLhyphen"/>nour of God, and the Liberty of the Subject.</p>
+            <p>And yet wheras now according to the ancient cuſtome of <hi>Parliaments,</hi> they and the reſt of the Counties within his Ma<g ref="char:EOLhyphen"/>jeſties Dominions; had entruſted ſome ſelect members with their <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and liberties, to be directed, and rectified ac<g ref="char:EOLhyphen"/>cording to their judgment, and accor<g ref="char:EOLhyphen"/>ding to Law and Equity.</p>
+            <p>And wheras there hath bin bred ſome unhappy differences betwixt his Maje<g ref="char:EOLhyphen"/>ſty and his Parliament, occaſioned by the malignants, thinking to bring this Kingdom to deſtruction.</p>
+            <p>We are very confident, that well af<g ref="char:EOLhyphen"/>fected people will not proſecute any thing, but what ſhall be for the glory of God, the advancement of the true Pro<g ref="char:EOLhyphen"/>teſtant Religion, the Honour of his Ma<g ref="char:EOLhyphen"/>jeſty, the enlargment and advancement of his Crown and Dignities, and the li<g ref="char:EOLhyphen"/>berty of the Subject.</p>
+            <pb facs="tcp:111922:4"/>
+            <p>His Majeſty having received this Meſſage, ſeemed, and was very much diſ<g ref="char:EOLhyphen"/>contented, and moved, and as it is repor<g ref="char:EOLhyphen"/>ted, hath raiſed ſome Forces againſt <hi>Lei<g ref="char:EOLhyphen"/>ceſter Town,</hi> and is reſolved to obtaine that by force of Arms, what he could not perſwade nor entreat from them.</p>
+            <p>Many have bin the troubles in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire, concerning the Militia,</hi> and the Lord <hi>Willoughby</hi> who was elected by the Houſe of <hi>Parliament,</hi> as one fit and wor<g ref="char:EOLhyphen"/>thy of ſo great a place, had the <hi>Militia</hi> of that County committed unto him, yet in the execution of that Truſt he hath bin moleſted, and found much op<g ref="char:EOLhyphen"/>poſition.</p>
+            <p>Yet that County hath no way beene defected in their faithfull expreſſions unto him, which moved the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi> to ſignifie the ſame unto the Houſe.</p>
+            <p>Whereupon, upon the 19. of <hi>July</hi> a Declaration or Proteſtation was pre<g ref="char:EOLhyphen"/>ſented to the Lords, the Number of them being compleat, by the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi>
+               <pb facs="tcp:111922:4"/>of <hi>Parham,</hi> from the County of <hi>Lincoln,</hi> which Declared their fidelity co the Houſes Commands, touching the <hi>Militia,</hi> which being communicated to the Houſe of Commons by a Meſſage, was received with much alacrity, and approved of, and it was deſired that thanks might be returned in both Hou<g ref="char:EOLhyphen"/>ſes Names for the ſame.</p>
+            <div type="resolution">
+               <head>The Parliaments Reſolution concerning the Commiſſions of Array:</head>
+               <p>WHeras ſeverall Commiſſions of Array have lately iſsued out under the Great Seal of <hi>England,</hi> into the ſeverall Counties of <hi>Leiceſter, Worceſter,</hi> and other Counties of this Realm, tending to the great danger of his Majeſty, and the diſturbance of the peace of this Kingdome: For the preventing thereof, and of the Execution, and iſsuing out of any ſuch Commiſſions for the time to come, It is or<g ref="char:EOLhyphen"/>dered by the Lords and Commons, That the Jud<g ref="char:EOLhyphen"/>ges and Juſtices of Aſſize, of the ſeverall
+<pb facs="tcp:111922:5"/>Counties of <hi>England</hi> and <hi>Wales,</hi> bee required in their ſeverall Circuits, at the Aſſizes and great Seſſions to be next held for each County, within th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Realm, and the Dominion of Wales, in open Court, and in their ſeverall Charges to be delivered to the Grand Juries at the ſaid Aſſizes openly to declare and publiſh, that the ſaid Lords and Commons have upon mature deliberation, Reſolved upon the queſtion, That the ſaid Commiſſions of Array are againſt Law, and againſt the Liberty and property of the Subject: And that all thoſe that are A<g ref="char:EOLhyphen"/>ctors in putting the ſame in execution, ſhall be eſteemed Diſturbers of the peace of this King<g ref="char:EOLhyphen"/>dome, and Betrayers of the Liberty of the Sub<g ref="char:EOLhyphen"/>ject.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered that this be printed and publiſhed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Iohn Brown Cler, Parl.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Elſing Cler. Parl. D. C.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
